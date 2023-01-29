@@ -52,8 +52,8 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'Telegram',
-      link: 'https://t.me/curiousersgames',
+      name: 'KOOK',
+      link: 'https://www.kookapp.cn/app/invite/Izy7mk',
     },
   ],
 
